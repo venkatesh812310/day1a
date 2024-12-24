@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BUTTON_STYLE2">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">160dp</item>
+        <item name="android:layout_marginTop">136dp</item>
+        <item name="android:background">#3F51B5</item>
+    </style>
+
+    <style name="name_email_password">
+        <item name="android:layout_width">311dp</item>
+        <item name="android:layout_height">96dp</item>
+        <item name="android:layout_marginTop">108dp</item>
+        <item name="android:inputType">textPersonName</item>
+        <item name="android:paddingStart">12sp</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+</resources>

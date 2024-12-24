@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">day 1 app</string>
+    <string name="hint" />
+    <string name="buttr">button</string>
+    <string name="next" />
+    <string name="next2">NEXT</string>
+    <string name="wellucome">WELCOME</string>
+    <string name="register"><![CDATA[REGISTER--->>]]></string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="firsty">What seems impossible today will one day be your warm-up</string>
+    <string name="regi">register\n</string>
+    <string name="name">"Enter Name "</string>
+    <string name="emai">Enter e-mail address</string>
+    <string name="password">Enter Password</string>
+    <string name="password_text">enter the stronger password which will be used for login across the devices</string>
+    <string name="start">START</string>
+    <string name="set_password" />
+    <string name="setp">Set password</string>
+    <string name="password_case_sensitive">enter carefully \"case sensitive\"</string>
+    <string name="newuser">New User? Register</string>
+    <string name="day1">DAY 1\n</string>
+    <string name="caloriesburnt">CALORIES BURNT</string>
+    <string name="TIMECONSUMED">TIME CONSUMED</string>
+    <string name="CALBURNT">CALORIES BURNT:</string>
+    <string name="TIMECO">TIME CONSUMED:</string>
+    <string name="exercisewise">See Exercise wise time and calories</string>
+</resources>

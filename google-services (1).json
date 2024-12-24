@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706943282125",
+    "project_id": "day1app-fdd32",
+    "storage_bucket": "day1app-fdd32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706943282125:android:b59a45c63737922a6b7284",
+        "android_client_info": {
+          "package_name": "com.example.day1app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJd0ea52ne6SuIaJX8A5Fz8-KbCNeAsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
